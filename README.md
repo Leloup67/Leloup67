@@ -1,7 +1,8 @@
-Salut toi ! 👋
+# Salut toi ! 👋
+
 Je suis dévellopeur de plugin MCPE at j'ai un serveur MCPE c'est Solarium rejoint le.
 
-Me contacter :
+**Me contacter :**
 
 Mail : leloup.of@gmail.com
 
