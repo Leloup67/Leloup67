@@ -1,6 +1,6 @@
 # Salut toi ! 👋
 
-Je suis dévellopeur de plugin MCPE at j'ai un serveur MCPE c'est Solarium rejoint le.
+Je suis dévellopeur de plugin MCPE et j'ai un serveur MCPE c'est Solarium rejoint le.
 
 **Me contacter :**
 
