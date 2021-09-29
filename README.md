@@ -6,7 +6,7 @@ Je suis dévellopeur de plugin MCPE et j'ai un serveur MCPE c'est Solarium rejoi
 
 Mail : leloup.of@gmail.com
 
-Discord: Leloup67#2426
+Discord: Leloup67#7833
 
 Discord Solarium: https://discord.gg/a4tVbgGYZe
 
