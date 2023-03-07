@@ -10,4 +10,4 @@ Discord: Leloup67#7833
 
 Discord Solarium: https://discord.gg/a4tVbgGYZe
 
-Site Solarium : https://solarium.ga
+Site Solarium : /
